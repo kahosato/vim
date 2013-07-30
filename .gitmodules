@@ -43,3 +43,6 @@
 [submodule "bundlegit"]
 	path = bundlegit
 	url = https://github.com/vim-scripts/TaskList.vim.git
+[submodule "bundle/rope-vim"]
+	path = bundle/rope-vim
+	url = https://github.com/klen/rope-vim.git
