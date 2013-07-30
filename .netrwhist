@@ -1,11 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/kaho'
-let g:netrw_dirhist_2='/Users/kaho/python'
-let g:netrw_dirhist_3='/Users/kaho/python/practice'
-let g:netrw_dirhist_4='/Users/kaho'
-let g:netrw_dirhist_5='/Users/kaho/.Trash'
-let g:netrw_dirhist_6='/Users/kaho/.viM'
-let g:netrw_dirhist_7='/Users/kaho/python/practice'
-let g:netrw_dirhist_8='/Users/kaho/python/practice/euler'
-let g:netrw_dirhist_9='/Users/kaho/python/practice/euler/picture_processing/testsuite/testsuite'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/kaho/python'
